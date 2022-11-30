@@ -48,11 +48,41 @@ Open3D is an open-source library that supports rapid development of software tha
 
 ## Dataset 
 
+### Ladar dataset
+<div align = center>
+<img src = "https://user-images.githubusercontent.com/81452190/204734244-d72ca38c-976f-4055-8e9c-679c5915792b.png" width = "400px"><br>
+</div>
+
+### SemanticKITTI dataset
+<div align = center>
+<img src = "https://user-images.githubusercontent.com/81452190/204734448-a57b9f9e-5030-4012-ac50-d2571e0e14f0.png" width = "400px"><br>
+</div>
+
+### Semantic3D dataset
+<div align = center>
+<img src = "https://user-images.githubusercontent.com/81452190/204735134-e4845810-92be-4981-9a0b-05e012947ff9.png" width = "400px"><br>
+</div>
+
+
+
 ## preprocess
 
 ## Segmentation and GUI
 
 # Output
+
+## Segmentation Semantic3D dataset
+<div align = center>
+<img src = "https://user-images.githubusercontent.com/81452190/204735570-dcbb869a-3dca-41ef-8a2b-6499db81c235.png" width = "400px"><br>
+</div>
+
+<div align = center>
+<img src = "https://user-images.githubusercontent.com/81452190/204735635-468a7a73-1973-4764-aae7-d10e467c3c79.png" width = "400px"><br>
+</div>
+
+## Animation Visualizaiton of SemanticKITTI dataset
+
+
 
 # Reference
 [1]https://hermary.com/learning/3d-vision-data-look-like/?gclid=EAIaIQobChMIwonapPaK-gIVAvjICh2yxAKfEAAYAiAAEgIbOPD_BwE<br><br>
