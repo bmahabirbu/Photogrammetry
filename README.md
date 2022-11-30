@@ -44,6 +44,7 @@ Create optimizaition algorithms in terms of data processing based on Open3D to h
 ## Open3D/Open3D-ml
 Open3D is an open-source library that supports rapid development of software that deals with 3D data. The Open3D frontend exposes a set of carefully selected data structures and algorithms in both C++ and Python. The backend is highly optimized and is set up for parallelization. Open3D was developed from a clean slate with a small and carefully considered set of dependencies. It can be set up on different platforms and compiled from source with minimal effort. The code is clean, consistently styled, and maintained via a clear code review mechanism. Open3D has been used in a number of published research projects and is actively deployed in the cloud
 
+
 ## 3D-PointCould conversion
 
 ## Dataset 
@@ -63,8 +64,6 @@ Open3D is an open-source library that supports rapid development of software tha
 <img src = "https://user-images.githubusercontent.com/81452190/204735134-e4845810-92be-4981-9a0b-05e012947ff9.png" width = "400px"><br>
 </div>
 
-
-
 ## preprocess
 
 ## Segmentation and GUI
@@ -82,7 +81,7 @@ Open3D is an open-source library that supports rapid development of software tha
 
 ## Animation Visualizaiton of SemanticKITTI dataset
 
-
+![myFile11-30-2022_30719_AM](https://user-images.githubusercontent.com/81452190/204741397-9a7dc3c8-86ae-4b0f-bf49-f765c1adcc96.gif)
 
 # Reference
 [1]https://hermary.com/learning/3d-vision-data-look-like/?gclid=EAIaIQobChMIwonapPaK-gIVAvjICh2yxAKfEAAYAiAAEgIbOPD_BwE<br><br>
