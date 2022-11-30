@@ -78,6 +78,9 @@ Open3D is an open-source library that supports rapid development of software tha
 ## preprocess
 
 ## Segmentation and GUI
+<div align = center>
+<img src = "https://user-images.githubusercontent.com/81452190/204744840-989cf101-87aa-4129-a556-d946f35964be.png" width = "400px"><br>
+</div>
 
 # Output
 
