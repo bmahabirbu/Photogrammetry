@@ -8,7 +8,7 @@ __By Group A2_09: Brian, Chris, and Risa__
 * Learn mainstream python algorithms to do computer vision tasks related to PointCloud, such as *__Tensorflow, Pytorch, Pytorch3D, Open3D__*.
 * Compare different methods to create drone pcd files, in terms of speed, resolution, and point quality.(*__Open3D,PPKT real-time visualization__*)
 * Set up complex environment with scc and wsl2(Ubuntu) and use OpenGL to rendering datasets.
-* Test *__mesh-RNN__* on scc.
+* Test *__mesh-RCNN__* on scc.
 * Build up pipeline, yaml, preprocess files, define different Class Method and use *__RandLa-Net model__* to realize Segmentation.
 * Using *__Semantic3D and KITTI__* dataset to realize animation, segmentation and also object detection.
 * Preprocess Optimizaition. 
@@ -16,11 +16,29 @@ __By Group A2_09: Brian, Chris, and Risa__
 ## MVP
 Create optimizaition algorithms in terms of data processing based on Open3D to help better performance(speed/quality) on all kinds of cv tasks.
 
-## Mesh-Net
+## Create a PointCloud
 
+<div align = center>
+<img src = "https://user-images.githubusercontent.com/81452190/204732364-026b9699-fc2e-4b32-9022-524dab76d7a4.png" width = "600px"><br>
+</div>
+
+## Mesh-Net
+<div align = center>
+<img src = "https://user-images.githubusercontent.com/81452190/204731614-0b22b6b6-b8b1-4be5-9ab2-db11da942490.png" width = "800px"><br>
+</div>
+
+## Test trianing Rendering on scc with Mesh-RCNN
+<div align = center>
+<img src = "https://user-images.githubusercontent.com/81452190/204732818-6a78a2b2-1d24-4754-a171-c0e398af3b11.png" width = "600px"><br>
+</div>
 
 ## Real-time PointCould Visualization - ppkt
-
+<div align = center>
+<img src = "https://user-images.githubusercontent.com/81452190/204733255-244526cb-531f-4bee-9c67-6738fa5df070.png" width = "400px"><br>
+</div>
+<div align = center>
+<img src = "https://user-images.githubusercontent.com/81452190/204733543-31ea36cd-6ec5-4fcf-9b71-f779f7f4240e.png" width = "400px"><br>
+</div>
 
 
 ## Open3D/Open3D-ml
