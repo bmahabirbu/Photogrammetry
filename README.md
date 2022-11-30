@@ -33,12 +33,23 @@ Create optimizaition algorithms in terms of data processing based on Open3D to h
 </div>
 
 ## Real-time PointCould Visualization - ppkt
+
+## Open3D - Sparse and Denser PointCloud with drone las file
 <div align = center>
 <img src = "https://user-images.githubusercontent.com/81452190/204733255-244526cb-531f-4bee-9c67-6738fa5df070.png" width = "400px"><br>
 </div>
 <div align = center>
 <img src = "https://user-images.githubusercontent.com/81452190/204733543-31ea36cd-6ec5-4fcf-9b71-f779f7f4240e.png" width = "400px"><br>
 </div>
+
+
+## Open3D vs PPKT
+
+### Open3D method
+![myFile11-30-2022_32011_AM](https://user-images.githubusercontent.com/81452190/204744241-73edbd27-f45f-405c-8f13-0676388c761b.gif)
+
+### PPKT method
+![myFile11-30-2022_31912_AM](https://user-images.githubusercontent.com/81452190/204744259-56f53dab-d316-42e7-96f2-dcac87d77c3f.gif)
 
 
 ## Open3D/Open3D-ml
