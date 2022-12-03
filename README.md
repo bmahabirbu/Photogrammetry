@@ -97,6 +97,12 @@ Open3D is an open-source library that supports rapid development of software tha
 
 ![myFile11-30-2022_30719_AM](https://user-images.githubusercontent.com/81452190/204741397-9a7dc3c8-86ae-4b0f-bf49-f765c1adcc96.gif)
 
+# Segmentation Algorithm Performance
+
+<div align = center>
+<img src = "https://user-images.githubusercontent.com/81452190/205454770-d21fba23-3309-4aa4-ad37-1918a6d4f33b.png" width = "1000px"><br>
+</div>
+
 # Reference
 [1]https://hermary.com/learning/3d-vision-data-look-like/?gclid=EAIaIQobChMIwonapPaK-gIVAvjICh2yxAKfEAAYAiAAEgIbOPD_BwE<br><br>
 [2]F. Chen, Y. Lu, B. Cai and X. Xie, "Multi-Drone Collaborative Trajectory Optimization for Large-Scale Aerial 3D Scanning," 2021 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), 2021, pp. 121-126, doi: 10.1109/ISMAR-Adjunct54149.2021.00034.<br><br>
